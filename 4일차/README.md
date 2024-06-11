@@ -6,7 +6,7 @@
 
 ---
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/fa97d740-13f6-4ddc-9939-b86bb2c976d6/1573d978-1015-45a2-9194-7bb2dd20fad9/Untitled.png)
+![깃헙1](https://github.com/GEUMAIN/webDesign/assets/128437656/0ed985e5-e330-4b8a-a8c7-397234049019)
 
 ---
 
@@ -198,7 +198,7 @@ h1 {
 
 ---
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/fa97d740-13f6-4ddc-9939-b86bb2c976d6/fca0397a-2a15-401e-8f96-057d8d620ed1/Untitled.png)
+![깃헙2](https://github.com/GEUMAIN/webDesign/assets/128437656/9e0c43eb-e190-4a87-8ea4-01a784c625a1)
 
 ---
 

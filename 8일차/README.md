@@ -8,7 +8,7 @@
 
 ---
 
-![깃헙4.PNG](https://prod-files-secure.s3.us-west-2.amazonaws.com/fa97d740-13f6-4ddc-9939-b86bb2c976d6/41df9699-3eff-431e-8f3d-671e008c7c2a/%EA%B9%83%ED%97%994.png)
+![깃헙4](https://github.com/GEUMAIN/webDesign/assets/128437656/9a2fce47-9651-47b5-83f3-a91fb6d99a1a)
 
 ---
 
@@ -168,7 +168,7 @@ h1 {
 
 ---
 
-![깃헙5.PNG](https://prod-files-secure.s3.us-west-2.amazonaws.com/fa97d740-13f6-4ddc-9939-b86bb2c976d6/4c928cfa-e7b8-4417-9efd-41e53feda818/%EA%B9%83%ED%97%995.png)
+![깃헙5](https://github.com/GEUMAIN/webDesign/assets/128437656/95ac7b9e-2585-417a-b2a4-a43b494741c6)
 
 ---
 

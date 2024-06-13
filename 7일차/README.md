@@ -378,6 +378,9 @@ h1 {
 ---
 
 ## 레이아웃 E-2
+---
+
+![깃헙3](https://github.com/GEUMAIN/webDesign/assets/128437656/791c3485-240b-4d4e-ae8d-1f1e6f1753d5)
 
 ---
 
@@ -402,20 +405,24 @@ h1 {
                 <h1 class="logo">로고</h1>
                 <nav class="nav">메뉴</nav>
             </header>
-            <section id="contetns">
+
+            <section id="contents">
                 <article class="notice">공지사항</article>
-                <artcle class="gallery">갤러리</artcle>
+                <article class="gallery">갤러리</article>
                 <article class="link">링크</article>
             </section>
-            <article id="slider">이미지 슬라이드</article>
+
+            <article id="slider">이미지 슬라이드
+            </article>
         </main>
 
         <footer id="footer">
             <div class="footer1">로고</div>
             <div class="footer2">COPYRIGHT</div>
-            <div class="footer3">패밀리사이트</div>
+            <div class="footer3">패밀리 사이트</div>
         </footer>
     </div>
+
 </body>
 
 </html>
@@ -437,9 +444,13 @@ h1 {
     width: 100%;
 }
 
-#header {
+#main {
     width: 100%;
     display: flex;
+}
+
+#header {
+    width: 200px;
 }
 
 #header .logo {
@@ -472,7 +483,7 @@ h1 {
 
 #contents .link {
     width: 100%;
-    height: 300px;
+    height: 150px;
     background-color: #c7c7c7;
 }
 
@@ -504,6 +515,7 @@ h1 {
     height: 100px;
     background-color: #9d9d9d;
 }
+
 
 h1 {
     font-size: 16px;
